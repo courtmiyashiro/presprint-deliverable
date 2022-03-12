@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+body {
+    background-color: #FAF9F6;
+}
+
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h3, h4, h5, p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li {
+     font-family: 'Montserrat', sans-serif;
+}
+
+a:link, a:visited {
+    color: #654195;
+}
+
+a:hover {
+    color: #AC89DC;
+}
+
